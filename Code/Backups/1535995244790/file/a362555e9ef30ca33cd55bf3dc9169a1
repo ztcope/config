@@ -1,8 +1,0 @@
-file:///home/teague/.config/nvim/plugin/hw.scala
-object HelloWorld {
-  def main(args: Array[String]): Unit = {
-    println("Hello, world!")
-    asdf = List(1,2,3)
-    asdf
-  }
-}
