@@ -1,0 +1,6 @@
+#!/bin/bash
+FONT="pango:Anonymous Pro 12"
+
+j4-dmenu-desktop --term="termite" --no-generic --use-xdg-de --dmenu=\
+"rofi -dmenu -i -p 'run:' -terminal termite -fuzzy -separator-style none -hide-scrollbar \
+-opacity "80" -eh 1 -matching fuzzy -location 0 -lines 10 -width 40 -bw 0 -font '$FONT' -theme ~/.config/rofi/sidebar.rasi" 

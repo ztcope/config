@@ -1,0 +1,27 @@
+#!/bin/bash
+
+vl=`amixer | grep Mono:\ Playback | cut -d'[' -f2 | cut -d']' -f1 | head -n1 | cut -d'%' -f1`
+mute=`amixer | grep Mono:\ Playback | cut -d'[' -f4 | cut -d']' -f1 | head -n1 | cut -d'%' -f1`
+# f026 
+# f027 
+# f028 
+
+if [ $mute = "off" ]
+then
+    echo  OFF
+else
+    if [ 50 -lt $vl ]
+    then
+        echo  ${vl}%
+    elif [ 9 -lt $vl ]
+    then
+        echo  ${vl}%
+    elif [ $vl -gt 0 ]
+    then
+        echo  0${vl}%
+    elif [ $vl -eq 0 ]
+    then
+        echo  00%
+    fi
+fi
+

@@ -1,0 +1,37 @@
+[2018-09-03 13:20:48.210] [sharedprocess] [info] main {"machineId":"d9ecece3ec9fb63074892a750160b36fa78840f81d9a41841979bc8dd07d9ca8"}
+[2018-09-03 13:20:48.275] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:20:48.290] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:20:48.293] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:20:48.300] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:20:48.417] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:20:48.425] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:20:48.429] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:20:49.934] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:20:49.935] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:21:11.470] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:21:11.475] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:21:11.477] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:21:11.550] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:21:11.554] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:21:28.215] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-03 13:21:50.537] [sharedprocess] [info] Installing extension: scala-lsp
+[2018-09-03 13:21:50.539] [sharedprocess] [info] Scanned user extensions: 0
+[2018-09-03 13:21:50.924] [sharedprocess] [info] Downloaded extension: scala-lsp /tmp/5a4c1c91-6b14-46ce-8b85-323dd8283ed8
+[2018-09-03 13:21:51.066] [sharedprocess] [info] Extracted extension to /home/teague/.vscode/extensions/.dragos.scala-lsp-0.2.3: dragos.scala-lsp-0.2.3
+[2018-09-03 13:21:51.066] [sharedprocess] [info] Renamed to /home/teague/.vscode/extensions/dragos.scala-lsp-0.2.3
+[2018-09-03 13:21:51.066] [sharedprocess] [info] Installation completed. dragos.scala-lsp-0.2.3
+[2018-09-03 13:21:51.078] [sharedprocess] [info] Extensions installed successfully: dragos.scala-lsp
+[2018-09-03 13:21:51.221] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:21:51.247] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:22:02.314] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.319] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.321] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.334] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.337] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.361] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:02.466] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:22:02.469] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:22:02.474] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:22:02.478] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-03 13:22:05.568] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-03 13:22:05.568] [sharedprocess] [info] Scanned user extensions: 1

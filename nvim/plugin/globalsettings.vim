@@ -1,0 +1,22 @@
+set number
+set autoindent
+set relativenumber
+set noswapfile
+set expandtab
+set shiftround
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set showcmd
+set splitright
+set splitbelow
+set mousehide
+set ignorecase
+set smartcase
+set gdefault
+set showmatch
+set undofile
+set undoreload=10000
+
+syntax enable
+set background=dark
